@@ -1,0 +1,1258 @@
+
+    {"wards": [
+        {
+            "ward_name": "01 Dhanori - Vishrantwadi",
+            "ward_number": 1,
+            "approximate_coordinates": [
+                [
+                    73.90771,
+                    18.60121
+                ],
+                [
+                    73.8948,
+                    18.58235
+                ],
+                [
+                    73.88217,
+                    18.57587
+                ],
+                [
+                    73.8637,
+                    18.59257
+                ]
+            ]
+        },
+        {
+            "ward_name": "02 Tingrenagar - Sanjay Park",
+            "ward_number": 2,
+            "approximate_coordinates": [
+                [
+                    73.91178,
+                    18.59201
+                ],
+                [
+                    73.91093,
+                    18.56419
+                ],
+                [
+                    73.88514,
+                    18.57341
+                ],
+                [
+                    73.89418,
+                    18.58177
+                ]
+            ]
+        },
+        {
+            "ward_name": "03 Lohegaon - Vimannagar",
+            "ward_number": 3,
+            "approximate_coordinates": [
+                [
+                    73.93051,
+                    18.62044
+                ],
+                [
+                    73.95857,
+                    18.59418
+                ],
+                [
+                    73.92958,
+                    18.56316
+                ],
+                [
+                    73.9029,
+                    18.58371
+                ]
+            ]
+        },
+        {
+            "ward_name": "04 East Kharadi - Wagholi",
+            "ward_number": 4,
+            "approximate_coordinates": [
+                [
+                    74.01045,
+                    18.60401
+                ],
+                [
+                    73.98099,
+                    18.5684
+                ],
+                [
+                    73.93873,
+                    18.5624
+                ],
+                [
+                    73.96112,
+                    18.59819
+                ]
+            ]
+        },
+        {
+            "ward_name": "05 West Kharadi - Vadgaon Sheri",
+            "ward_number": 5,
+            "approximate_coordinates": [
+                [
+                    73.93445,
+                    18.5636
+                ],
+                [
+                    73.94508,
+                    18.545
+                ],
+                [
+                    73.9263,
+                    18.55535
+                ],
+                [
+                    73.92088,
+                    18.56188
+                ]
+            ]
+        },
+        {
+            "ward_name": "06 Vadgaon Sheri - Ramwadi",
+            "ward_number": 6,
+            "approximate_coordinates": [
+                [
+                    73.9226,
+                    18.55611
+                ],
+                [
+                    73.92282,
+                    18.54024
+                ],
+                [
+                    73.91305,
+                    18.55084
+                ],
+                [
+                    73.92118,
+                    18.55658
+                ]
+            ]
+        },
+        {
+            "ward_name": "07 Kalyaninagar - Nagpur Chawl",
+            "ward_number": 7,
+            "approximate_coordinates": [
+                [
+                    73.90306,
+                    18.5695
+                ],
+                [
+                    73.91947,
+                    18.54888
+                ],
+                [
+                    73.88885,
+                    18.54546
+                ],
+                [
+                    73.90037,
+                    18.57177
+                ]
+            ]
+        },
+        {
+            "ward_name": "08 Kalas - Phulenagar",
+            "ward_number": 8,
+            "approximate_coordinates": [
+                [
+                    73.87663,
+                    18.58292
+                ],
+                [
+                    73.88326,
+                    18.55342
+                ],
+                [
+                    73.87207,
+                    18.56411
+                ],
+                [
+                    73.87205,
+                    18.57931
+                ]
+            ]
+        },
+        {
+            "ward_name": "09 Yerwada",
+            "ward_number": 9,
+            "approximate_coordinates": [
+                [
+                    73.88683,
+                    18.5517
+                ],
+                [
+                    73.88509,
+                    18.54341
+                ],
+                [
+                    73.87811,
+                    18.54829
+                ],
+                [
+                    73.8825,
+                    18.55336
+                ]
+            ]
+        },
+        {
+            "ward_name": "10 Shivajinagar Gaothan - Sangamwadi",
+            "ward_number": 10,
+            "approximate_coordinates": [
+                [
+                    73.87811,
+                    18.54829
+                ],
+                [
+                    73.85442,
+                    18.52228
+                ],
+                [
+                    73.83882,
+                    18.54122
+                ],
+                [
+                    73.85623,
+                    18.54247
+                ]
+            ]
+        },
+        {
+            "ward_name": "11 Bopodi - Savitribai Phule Pune University",
+            "ward_number": 11,
+            "approximate_coordinates": [
+                [
+                    73.84375,
+                    18.57075
+                ],
+                [
+                    73.83417,
+                    18.54674
+                ],
+                [
+                    73.82994,
+                    18.53915
+                ],
+                [
+                    73.82311,
+                    18.56916
+                ]
+            ]
+        },
+        {
+            "ward_name": "12 Aundh - Balewadi",
+            "ward_number": 12,
+            "approximate_coordinates": [
+                [
+                    73.76868,
+                    18.58726
+                ],
+                [
+                    73.79502,
+                    18.56574
+                ],
+                [
+                    73.80303,
+                    18.56039
+                ],
+                [
+                    73.77842,
+                    18.56422
+                ]
+            ]
+        },
+        {
+            "ward_name": "13 Baner - Sus - Mahalunge",
+            "ward_number": 13,
+            "approximate_coordinates": [
+                [
+                    73.76244,
+                    18.57465
+                ],
+                [
+                    73.79709,
+                    18.55896
+                ],
+                [
+                    73.74369,
+                    18.53181
+                ],
+                [
+                    73.7384,
+                    18.57257
+                ]
+            ]
+        },
+        {
+            "ward_name": "14 Pashan - Bawdhan",
+            "ward_number": 14,
+            "approximate_coordinates": [
+                [
+                    73.80252,
+                    18.54621
+                ],
+                [
+                    73.79231,
+                    18.51636
+                ],
+                [
+                    73.76644,
+                    18.5072
+                ],
+                [
+                    73.78468,
+                    18.54924
+                ]
+            ]
+        },
+        {
+            "ward_name": "15 Gokhalenagar - Vadarwadi",
+            "ward_number": 15,
+            "approximate_coordinates": [
+                [
+                    73.82994,
+                    18.53915
+                ],
+                [
+                    73.83478,
+                    18.52636
+                ],
+                [
+                    73.82467,
+                    18.52013
+                ],
+                [
+                    73.80757,
+                    18.53865
+                ]
+            ]
+        },
+        {
+            "ward_name": "16 Fergusson College - Erandwane",
+            "ward_number": 16,
+            "approximate_coordinates": [
+                [
+                    73.83909,
+                    18.52707
+                ],
+                [
+                    73.83684,
+                    18.50118
+                ],
+                [
+                    73.82438,
+                    18.49817
+                ],
+                [
+                    73.83048,
+                    18.52341
+                ]
+            ]
+        },
+        {
+            "ward_name": "17 Shaniwar peth - Navi Peth",
+            "ward_number": 17,
+            "approximate_coordinates": [
+                [
+                    73.85382,
+                    18.5182
+                ],
+                [
+                    73.85042,
+                    18.50791
+                ],
+                [
+                    73.84383,
+                    18.50496
+                ],
+                [
+                    73.85306,
+                    18.52108
+                ]
+            ]
+        },
+        {
+            "ward_name": "18 Shaniwarwada - Kasba Peth",
+            "ward_number": 18,
+            "approximate_coordinates": [
+                [
+                    73.86125,
+                    18.52015
+                ],
+                [
+                    73.86477,
+                    18.51547
+                ],
+                [
+                    73.85637,
+                    18.51527
+                ],
+                [
+                    73.86113,
+                    18.52458
+                ]
+            ]
+        },
+        {
+            "ward_name": "19 Chhatrapati Shivaji Maharaj Stadium - Rasta peth",
+            "ward_number": 19,
+            "approximate_coordinates": [
+                [
+                    73.87192,
+                    18.52014
+                ],
+                [
+                    73.86231,
+                    18.51814
+                ],
+                [
+                    73.86865,
+                    18.52505
+                ],
+                [
+                    73.8718,
+                    18.5208
+                ]
+            ]
+        },
+        {
+            "ward_name": "20 Pune Station -Matoshri Ramabai Ambedkar Road",
+            "ward_number": 20,
+            "approximate_coordinates": [
+                [
+                    73.87561,
+                    18.53091
+                ],
+                [
+                    73.87442,
+                    18.51838
+                ],
+                [
+                    73.86379,
+                    18.53642
+                ],
+                [
+                    73.88518,
+                    18.54321
+                ]
+            ]
+        },
+        {
+            "ward_name": "21 Koregaon park - Mundhwa",
+            "ward_number": 21,
+            "approximate_coordinates": [
+                [
+                    73.90264,
+                    18.54116
+                ],
+                [
+                    73.90682,
+                    18.51557
+                ],
+                [
+                    73.89867,
+                    18.51872
+                ],
+                [
+                    73.90077,
+                    18.53208
+                ]
+            ]
+        },
+        {
+            "ward_name": "22 Manjari Bk. - Shewalwadi",
+            "ward_number": 22,
+            "approximate_coordinates": [
+                [
+                    73.96104,
+                    18.54589
+                ],
+                [
+                    73.99128,
+                    18.52267
+                ],
+                [
+                    74.00352,
+                    18.47666
+                ],
+                [
+                    73.94549,
+                    18.52417
+                ]
+            ]
+        },
+        {
+            "ward_name": "23 Sadesataranali - Aakashwani",
+            "ward_number": 23,
+            "approximate_coordinates": [
+                [
+                    73.94182,
+                    18.53237
+                ],
+                [
+                    73.94406,
+                    18.5001
+                ],
+                [
+                    73.9329,
+                    18.51316
+                ],
+                [
+                    73.9168,
+                    18.50427
+                ]
+            ]
+        },
+        {
+            "ward_name": "24 Magarpatta - Sadhana Vidyalaya",
+            "ward_number": 24,
+            "approximate_coordinates": [
+                [
+                    73.93339,
+                    18.52063
+                ],
+                [
+                    73.91956,
+                    18.51242
+                ],
+                [
+                    73.90635,
+                    18.52256
+                ],
+                [
+                    73.92247,
+                    18.49852
+                ]
+            ]
+        },
+        {
+            "ward_name": "25 Hadapsar Gaothan - Satavwadi",
+            "ward_number": 25,
+            "approximate_coordinates": [
+                [
+                    73.93382,
+                    18.50147
+                ],
+                [
+                    73.94922,
+                    18.49126
+                ],
+                [
+                    73.93143,
+                    18.49325
+                ],
+                [
+                    73.9246,
+                    18.50277
+                ]
+            ]
+        },
+        {
+            "ward_name": "26 Wanwadi Gaothan - Vaiduwadi",
+            "ward_number": 26,
+            "approximate_coordinates": [
+                [
+                    73.90905,
+                    18.52566
+                ],
+                [
+                    73.91145,
+                    18.51974
+                ],
+                [
+                    73.91133,
+                    18.50066
+                ],
+                [
+                    73.90178,
+                    18.49474
+                ]
+            ]
+        },
+        {
+            "ward_name": "27 Kasewadi - Lohiyanagar",
+            "ward_number": 27,
+            "approximate_coordinates": [
+                [
+                    73.87187,
+                    18.51067
+                ],
+                [
+                    73.87488,
+                    18.50201
+                ],
+                [
+                    73.86508,
+                    18.50471
+                ],
+                [
+                    73.86835,
+                    18.51084
+                ]
+            ]
+        },
+        {
+            "ward_name": "29 Ghorpade peth Udyan - Mahatma Phule Mandai",
+            "ward_number": 29,
+            "approximate_coordinates": [
+                [
+                    73.85914,
+                    18.50862
+                ],
+                [
+                    73.86507,
+                    18.51474
+                ],
+                [
+                    73.85809,
+                    18.50157
+                ],
+                [
+                    73.85375,
+                    18.5146
+                ]
+            ]
+        },
+        {
+            "ward_name": "30 Jai Bhavaninagar - Kelewadi",
+            "ward_number": 30,
+            "approximate_coordinates": [
+                [
+                    73.82701,
+                    18.5192
+                ],
+                [
+                    73.81232,
+                    18.5246
+                ],
+                [
+                    73.81129,
+                    18.53952
+                ],
+                [
+                    73.82465,
+                    18.51471
+                ]
+            ]
+        },
+        {
+            "ward_name": "31 Kothrud Gaothan - Shivtirthnagar",
+            "ward_number": 31,
+            "approximate_coordinates": [
+                [
+                    73.80918,
+                    18.50819
+                ],
+                [
+                    73.81366,
+                    18.49912
+                ],
+                [
+                    73.80216,
+                    18.49976
+                ],
+                [
+                    73.79879,
+                    18.51183
+                ]
+            ]
+        },
+        {
+            "ward_name": "32 Bhusari colony - Bavdhan Khurd",
+            "ward_number": 32,
+            "approximate_coordinates": [
+                [
+                    73.80589,
+                    18.51562
+                ],
+                [
+                    73.79252,
+                    18.50409
+                ],
+                [
+                    73.78087,
+                    18.50749
+                ],
+                [
+                    73.79932,
+                    18.49844
+                ]
+            ]
+        },
+        {
+            "ward_name": "33 Ideal colony - Mahatma Society",
+            "ward_number": 33,
+            "approximate_coordinates": [
+                [
+                    73.77003,
+                    18.51315
+                ],
+                [
+                    73.8138,
+                    18.49798
+                ],
+                [
+                    73.79986,
+                    18.48498
+                ],
+                [
+                    73.7772,
+                    18.49453
+                ]
+            ]
+        },
+        {
+            "ward_name": "34 Warje - Kondhave Dhavde",
+            "ward_number": 34,
+            "approximate_coordinates": [
+                [
+                    73.80156,
+                    18.49354
+                ],
+                [
+                    73.77881,
+                    18.49216
+                ],
+                [
+                    73.76582,
+                    18.49086
+                ],
+                [
+                    73.7842,
+                    18.47019
+                ]
+            ]
+        },
+        {
+            "ward_name": "35 Ramnagar - Uttamnagar Shivane",
+            "ward_number": 35,
+            "approximate_coordinates": [
+                [
+                    73.80786,
+                    18.49174
+                ],
+                [
+                    73.79171,
+                    18.46205
+                ],
+                [
+                    73.75028,
+                    18.43287
+                ],
+                [
+                    73.78834,
+                    18.454
+                ]
+            ]
+        },
+        {
+            "ward_name": "36 Karvenagar",
+            "ward_number": 36,
+            "approximate_coordinates": [
+                [
+                    73.82467,
+                    18.49017
+                ],
+                [
+                    73.81427,
+                    18.48006
+                ],
+                [
+                    73.82799,
+                    18.46173
+                ],
+                [
+                    73.82772,
+                    18.47843
+                ]
+            ]
+        },
+        {
+            "ward_name": "37 Janata Vasahat - Dattawadi",
+            "ward_number": 37,
+            "approximate_coordinates": [
+                [
+                    73.8455,
+                    18.50218
+                ],
+                [
+                    73.84276,
+                    18.4936
+                ],
+                [
+                    73.83419,
+                    18.48788
+                ],
+                [
+                    73.8336,
+                    18.49661
+                ]
+            ]
+        },
+        {
+            "ward_name": "38 Shivdarshan - Padmavati",
+            "ward_number": 38,
+            "approximate_coordinates": [
+                [
+                    73.85853,
+                    18.50065
+                ],
+                [
+                    73.85738,
+                    18.48891
+                ],
+                [
+                    73.8509,
+                    18.4771
+                ],
+                [
+                    73.84999,
+                    18.49901
+                ]
+            ]
+        },
+        {
+            "ward_name": "39 Market yard - Maharshinagar",
+            "ward_number": 39,
+            "approximate_coordinates": [
+                [
+                    73.85744,
+                    18.48727
+                ],
+                [
+                    73.86953,
+                    18.49187
+                ],
+                [
+                    73.86767,
+                    18.48091
+                ],
+                [
+                    73.85841,
+                    18.48636
+                ]
+            ]
+        },
+        {
+            "ward_name": "40 Bibvewadi - Gangadham",
+            "ward_number": 40,
+            "approximate_coordinates": [
+                [
+                    73.8905,
+                    18.48309
+                ],
+                [
+                    73.87966,
+                    18.47474
+                ],
+                [
+                    73.86242,
+                    18.47461
+                ],
+                [
+                    73.88359,
+                    18.48993
+                ]
+            ]
+        },
+        {
+            "ward_name": "41 Kondhva Kh - Mithanagar",
+            "ward_number": 41,
+            "approximate_coordinates": [
+                [
+                    73.89103,
+                    18.48276
+                ],
+                [
+                    73.88904,
+                    18.46771
+                ],
+                [
+                    73.87896,
+                    18.46461
+                ],
+                [
+                    73.89617,
+                    18.49097
+                ]
+            ]
+        },
+        {
+            "ward_name": "42 Ramtekadi - Sayyadnagar",
+            "ward_number": 42,
+            "approximate_coordinates": [
+                [
+                    73.92168,
+                    18.49931
+                ],
+                [
+                    73.92271,
+                    18.47654
+                ],
+                [
+                    73.91349,
+                    18.4679
+                ],
+                [
+                    73.9116,
+                    18.49162
+                ]
+            ]
+        },
+        {
+            "ward_name": "43 Wanawadi - Kausar Baug",
+            "ward_number": 43,
+            "approximate_coordinates": [
+                [
+                    73.91145,
+                    18.49358
+                ],
+                [
+                    73.89517,
+                    18.48894
+                ],
+                [
+                    73.89902,
+                    18.49531
+                ],
+                [
+                    73.90921,
+                    18.48089
+                ]
+            ]
+        },
+        {
+            "ward_name": "44 Kale Boratenagar - Sasanenagar",
+            "ward_number": 44,
+            "approximate_coordinates": [
+                [
+                    73.94922,
+                    18.49126
+                ],
+                [
+                    73.93521,
+                    18.47666
+                ],
+                [
+                    73.93176,
+                    18.48464
+                ],
+                [
+                    73.94596,
+                    18.49478
+                ]
+            ]
+        },
+        {
+            "ward_name": "45 Fursungi",
+            "ward_number": 45,
+            "approximate_coordinates": [
+                [
+                    73.95688,
+                    18.49336
+                ],
+                [
+                    74.00254,
+                    18.4737
+                ],
+                [
+                    73.96172,
+                    18.46532
+                ],
+                [
+                    73.94436,
+                    18.44305
+                ]
+            ]
+        },
+        {
+            "ward_name": "46 Mohammad wadi - Uruli Devachi",
+            "ward_number": 46,
+            "approximate_coordinates": [
+                [
+                    73.93137,
+                    18.48078
+                ],
+                [
+                    73.97412,
+                    18.46928
+                ],
+                [
+                    73.92262,
+                    18.42549
+                ],
+                [
+                    73.90063,
+                    18.46038
+                ]
+            ]
+        },
+        {
+            "ward_name": "47 Kondhva Bk - Yewalewadi",
+            "ward_number": 47,
+            "approximate_coordinates": [
+                [
+                    73.88958,
+                    18.46468
+                ],
+                [
+                    73.91012,
+                    18.44074
+                ],
+                [
+                    73.88185,
+                    18.43703
+                ],
+                [
+                    73.87553,
+                    18.45674
+                ]
+            ]
+        },
+        {
+            "ward_name": "48 Upper Super Indiranagar",
+            "ward_number": 48,
+            "approximate_coordinates": [
+                [
+                    73.875,
+                    18.47223
+                ],
+                [
+                    73.86829,
+                    18.50742
+                ],
+                [
+                    73.8653,
+                    18.50096
+                ],
+                [
+                    73.86781,
+                    18.50602
+                ]
+            ]
+        },
+        {
+            "ward_name": "49 Balajinagar - Shankar Maharaj Math",
+            "ward_number": 49,
+            "approximate_coordinates": [
+                [
+                    73.86123,
+                    18.48093
+                ],
+                [
+                    73.85738,
+                    18.48891
+                ],
+                [
+                    73.85041,
+                    18.49113
+                ],
+                [
+                    73.85155,
+                    18.4953
+                ]
+            ]
+        },
+        {
+            "ward_name": "50 Sahakarnagar - Taljai",
+            "ward_number": 50,
+            "approximate_coordinates": [
+                [
+                    73.84922,
+                    18.49643
+                ],
+                [
+                    73.8501,
+                    18.48636
+                ],
+                [
+                    73.84478,
+                    18.46862
+                ],
+                [
+                    73.83403,
+                    18.48919
+                ]
+            ]
+        },
+        {
+            "ward_name": "51 Vadgaon Bk - Manikbaug",
+            "ward_number": 51,
+            "approximate_coordinates": [
+                [
+                    73.84038,
+                    18.48767
+                ],
+                [
+                    73.83202,
+                    18.46483
+                ],
+                [
+                    73.81276,
+                    18.46037
+                ],
+                [
+                    73.82931,
+                    18.48551
+                ]
+            ]
+        },
+        {
+            "ward_name": "52 Nanded City - Sun City",
+            "ward_number": 52,
+            "approximate_coordinates": [
+                [
+                    73.83027,
+                    18.48729
+                ],
+                [
+                    73.79965,
+                    18.43984
+                ],
+                [
+                    73.77856,
+                    18.46941
+                ],
+                [
+                    73.81272,
+                    18.49816
+                ]
+            ]
+        },
+        {
+            "ward_name": "53 Khadakwasla - Narhe",
+            "ward_number": 53,
+            "approximate_coordinates": [
+                [
+                    73.78664,
+                    18.46267
+                ],
+                [
+                    73.8017,
+                    18.43285
+                ],
+                [
+                    73.80495,
+                    18.38539
+                ],
+                [
+                    73.77404,
+                    18.48879
+                ]
+            ]
+        },
+        {
+            "ward_name": "54 Dhayari - Ambegaon",
+            "ward_number": 54,
+            "approximate_coordinates": [
+                [
+                    73.84725,
+                    18.4515
+                ],
+                [
+                    73.84881,
+                    18.40988
+                ],
+                [
+                    73.82458,
+                    18.39498
+                ],
+                [
+                    73.80177,
+                    18.42796
+                ]
+            ]
+        },
+        {
+            "ward_name": "55 Dhankawadi - Ambegaon Pathar",
+            "ward_number": 55,
+            "approximate_coordinates": [
+                [
+                    73.85251,
+                    18.46834
+                ],
+                [
+                    73.8494,
+                    18.46517
+                ],
+                [
+                    73.83029,
+                    18.46181
+                ],
+                [
+                    73.85205,
+                    18.4501
+                ]
+            ]
+        },
+        {
+            "ward_name": "56 Chaitanyanagar - Bharati Vidyapeeth",
+            "ward_number": 56,
+            "approximate_coordinates": [
+                [
+                    73.85774,
+                    18.46837
+                ],
+                [
+                    73.85738,
+                    18.48355
+                ],
+                [
+                    73.84988,
+                    18.48859
+                ],
+                [
+                    73.84973,
+                    18.4817
+                ]
+            ]
+        },
+        {
+            "ward_name": "57 Sukhsagarnagar - Rajiv Gandhinagar",
+            "ward_number": 57,
+            "approximate_coordinates": [
+                [
+                    73.87781,
+                    18.46127
+                ],
+                [
+                    73.86767,
+                    18.44686
+                ],
+                [
+                    73.86301,
+                    18.43535
+                ],
+                [
+                    73.86868,
+                    18.51308
+                ]
+            ]
+        },
+        {
+            "ward_name": "58 Katraj - Gokulnagar",
+            "ward_number": 58,
+            "approximate_coordinates": [
+                [
+                    73.8629,
+                    18.45942
+                ],
+                [
+                    73.86956,
+                    18.43971
+                ],
+                [
+                    73.85806,
+                    18.4058
+                ],
+                [
+                    73.81157,
+                    18.41127
+                ]
+            ]
+        }
+    ]
+}

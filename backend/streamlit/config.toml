@@ -1,0 +1,18 @@
+# .streamlit/config.toml
+
+[server]
+# Enable Cross-Origin Resource Sharing (CORS)
+enableCORS = true
+
+# Run the server in headless mode, ideal for embedding
+headless = true
+
+# This is the crucial part.
+# Add the URL of your React application to the list of allowed origins.
+# The default React port is 3000. Change it if yours is different.
+cors-allowed-origins = ["http://localhost:3000"]
+
+[browser]
+# This prevents Streamlit from trying to open a browser tab on launch
+serverAddress = "localhost"
+gatherUsageStats = false

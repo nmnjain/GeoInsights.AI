@@ -1,0 +1,522 @@
+{
+    "01 Dhanori - Vishrantwadi": {
+        "2015": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2016": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2017": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2018": {
+            "vegetation_percent": 28.85074729853065,
+            "water_percent": 0.7344139849617687,
+            "builtup_percent": 5.7085997505656305
+        },
+        "2019": {
+            "vegetation_percent": 21.631010972002457,
+            "water_percent": 0.5987829245703689,
+            "builtup_percent": 0.6692315862056556
+        },
+        "2020": {
+            "vegetation_percent": 29.595634089741534,
+            "water_percent": 0.4817877317845407,
+            "builtup_percent": 3.9722072341819334
+        },
+        "2021": {
+            "vegetation_percent": 29.858639259180652,
+            "water_percent": 0.5681101024912429,
+            "builtup_percent": 7.6699951221482685
+        },
+        "2022": {
+            "vegetation_percent": 36.094838252543234,
+            "water_percent": 0.44958118369598155,
+            "builtup_percent": 1.7097078399205292
+        },
+        "2023": {
+            "vegetation_percent": 31.746595228123887,
+            "water_percent": 0.6623369551899688,
+            "builtup_percent": 2.5237431272411226
+        },
+        "2024": {
+            "vegetation_percent": 32.86689439720059,
+            "water_percent": 0.623321096900035,
+            "builtup_percent": 3.654029283898024
+        }
+    },
+    "02 Tingrenagar - Sanjay Park": {
+        "2015": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2016": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2017": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2018": {
+            "vegetation_percent": 26.135309974617925,
+            "water_percent": 0.2413659274779692,
+            "builtup_percent": 8.345111547923475
+        },
+        "2019": {
+            "vegetation_percent": 19.487046968700835,
+            "water_percent": 0.08664415875770257,
+            "builtup_percent": 1.518630452312913
+        },
+        "2020": {
+            "vegetation_percent": 25.57102597037566,
+            "water_percent": 0.14028103093701325,
+            "builtup_percent": 4.808971307313766
+        },
+        "2021": {
+            "vegetation_percent": 27.40572538021463,
+            "water_percent": 0.11139968708769911,
+            "builtup_percent": 5.330549611611448
+        },
+        "2022": {
+            "vegetation_percent": 33.11410405480128,
+            "water_percent": 0.0,
+            "builtup_percent": 2.012871426747206
+        },
+        "2023": {
+            "vegetation_percent": 31.50933530678431,
+            "water_percent": 0.0,
+            "builtup_percent": 4.0311313931884465
+        },
+        "2024": {
+            "vegetation_percent": 31.50684998183874,
+            "water_percent": 0.0,
+            "builtup_percent": 6.311296040243199
+        }
+    },
+    "03 Lohegaon - Vimannagar": {
+        "2015": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2016": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2017": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2018": {
+            "vegetation_percent": 15.522322391532539,
+            "water_percent": 0.027330004844134597,
+            "builtup_percent": 13.919383273297688
+        },
+        "2019": {
+            "vegetation_percent": 11.327378081859008,
+            "water_percent": 0.0,
+            "builtup_percent": 2.072556343877087
+        },
+        "2020": {
+            "vegetation_percent": 17.20090840873505,
+            "water_percent": 0.0,
+            "builtup_percent": 5.881914195835957
+        },
+        "2021": {
+            "vegetation_percent": 16.778854633077337,
+            "water_percent": 0.0015183692528219972,
+            "builtup_percent": 7.922286126565446
+        },
+        "2022": {
+            "vegetation_percent": 23.74829999864167,
+            "water_percent": 0.0,
+            "builtup_percent": 1.8767866605725798
+        },
+        "2023": {
+            "vegetation_percent": 19.39001685770278,
+            "water_percent": 0.0,
+            "builtup_percent": 7.003865245701853
+        },
+        "2024": {
+            "vegetation_percent": 19.20855374386238,
+            "water_percent": 0.0,
+            "builtup_percent": 7.374668762853995
+        }
+    },
+    "04 East Kharadi - Wagholi": {
+        "2015": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2016": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2017": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2018": {
+            "vegetation_percent": 9.574847683908713,
+            "water_percent": 0.38051729511386445,
+            "builtup_percent": 6.258113735219159
+        },
+        "2019": {
+            "vegetation_percent": 6.196164799487218,
+            "water_percent": 0.14271591773475512,
+            "builtup_percent": 0.6607330214267642
+        },
+        "2020": {
+            "vegetation_percent": 12.660870902365023,
+            "water_percent": 0.306137109043753,
+            "builtup_percent": 2.477710946597801
+        },
+        "2021": {
+            "vegetation_percent": 10.987062473079929,
+            "water_percent": 0.24098589570633383,
+            "builtup_percent": 2.251227609451416
+        },
+        "2022": {
+            "vegetation_percent": 18.037048003408138,
+            "water_percent": 0.1921219095328187,
+            "builtup_percent": 1.7049842152804833
+        },
+        "2023": {
+            "vegetation_percent": 13.245924667458864,
+            "water_percent": 0.1167162716036878,
+            "builtup_percent": 1.9051537037112116
+        },
+        "2024": {
+            "vegetation_percent": 12.77467374256242,
+            "water_percent": 0.0,
+            "builtup_percent": 0.7609487293339223
+        }
+    },
+    "05 West Kharadi - Vadgaon Sheri": {
+        "2015": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2016": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2017": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2018": {
+            "vegetation_percent": 13.8128907423642,
+            "water_percent": 0.00299379877561696,
+            "builtup_percent": 1.6247686842105085
+        },
+        "2019": {
+            "vegetation_percent": 9.974379250918316,
+            "water_percent": 0.0,
+            "builtup_percent": 0.2765929903136343
+        },
+        "2020": {
+            "vegetation_percent": 12.86444884446681,
+            "water_percent": 0.0017962792653701762,
+            "builtup_percent": 0.35912353578959477
+        },
+        "2021": {
+            "vegetation_percent": 13.573222559314729,
+            "water_percent": 0.00299379877561696,
+            "builtup_percent": 0.19342707326689795
+        },
+        "2022": {
+            "vegetation_percent": 15.469134859560302,
+            "water_percent": 0.0,
+            "builtup_percent": 0.7705467947244945
+        },
+        "2023": {
+            "vegetation_percent": 15.963361204701279,
+            "water_percent": 0.0017962792653701762,
+            "builtup_percent": 0.6622504905927629
+        },
+        "2024": {
+            "vegetation_percent": 15.758579591317021,
+            "water_percent": 0.0,
+            "builtup_percent": 0.4949443955036691
+        }
+    },
+    "06 Vadgaon Sheri - Ramwadi": {
+        "2015": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2016": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2017": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2018": {
+            "vegetation_percent": 26.85388945485183,
+            "water_percent": 0.0,
+            "builtup_percent": 1.6962123106746552
+        },
+        "2019": {
+            "vegetation_percent": 19.75971758502584,
+            "water_percent": 0.0,
+            "builtup_percent": 0.322394921396639
+        },
+        "2020": {
+            "vegetation_percent": 24.20692436117234,
+            "water_percent": 0.0,
+            "builtup_percent": 0.4371777239843608
+        },
+        "2021": {
+            "vegetation_percent": 25.896675799910774,
+            "water_percent": 0.0,
+            "builtup_percent": 0.1733997554194517
+        },
+        "2022": {
+            "vegetation_percent": 28.3074701996853,
+            "water_percent": 0.0,
+            "builtup_percent": 1.1778161546385608
+        },
+        "2023": {
+            "vegetation_percent": 31.040887253900383,
+            "water_percent": 0.0,
+            "builtup_percent": 0.9643467995795796
+        },
+        "2024": {
+            "vegetation_percent": 29.915505821045475,
+            "water_percent": 0.0,
+            "builtup_percent": 1.0486692439770593
+        }
+    },
+    "07 Kalyaninagar - Nagpur Chawl": {
+        "2015": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2016": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2017": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2018": {
+            "vegetation_percent": 48.00470748326822,
+            "water_percent": 0.0,
+            "builtup_percent": 2.5220576563991894
+        },
+        "2019": {
+            "vegetation_percent": 38.215104510893596,
+            "water_percent": 0.0,
+            "builtup_percent": 0.568005146920516
+        },
+        "2020": {
+            "vegetation_percent": 46.06126591898673,
+            "water_percent": 0.0,
+            "builtup_percent": 0.8442814428160851
+        },
+        "2021": {
+            "vegetation_percent": 50.49606149525901,
+            "water_percent": 0.0,
+            "builtup_percent": 1.2171906583481287
+        },
+        "2022": {
+            "vegetation_percent": 57.382438496481846,
+            "water_percent": 0.0,
+            "builtup_percent": 1.3046895498989535
+        },
+        "2023": {
+            "vegetation_percent": 48.91211272691231,
+            "water_percent": 0.0,
+            "builtup_percent": 2.5956995469963955
+        },
+        "2024": {
+            "vegetation_percent": 46.80335767796999,
+            "water_percent": 0.0,
+            "builtup_percent": 7.637571046738584
+        }
+    },
+    "08 Kalas - Phulenagar": {
+        "2015": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2016": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2017": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2018": {
+            "vegetation_percent": 45.83702762690105,
+            "water_percent": 0.9146821670807779,
+            "builtup_percent": 1.8310517929950956
+        },
+        "2019": {
+            "vegetation_percent": 41.62278269603917,
+            "water_percent": 0.004891223010087721,
+            "builtup_percent": 0.10796992407630349
+        },
+        "2020": {
+            "vegetation_percent": 47.58169173063935,
+            "water_percent": 0.08804374023501102,
+            "builtup_percent": 0.2733345579546981
+        },
+        "2021": {
+            "vegetation_percent": 52.630074071912304,
+            "water_percent": 0.034238915701174724,
+            "builtup_percent": 0.07336724524246746
+        },
+        "2022": {
+            "vegetation_percent": 52.937637740593516,
+            "water_percent": 0.08804265417891893,
+            "builtup_percent": 0.4378401024584334
+        },
+        "2023": {
+            "vegetation_percent": 52.04941862801395,
+            "water_percent": 0.06358635033520195,
+            "builtup_percent": 0.20581686075926858
+        },
+        "2024": {
+            "vegetation_percent": 52.883359908341745,
+            "water_percent": 0.0880425864983097,
+            "builtup_percent": 0.19112606003695926
+        }
+    },
+    "09 Yerwada": {
+        "2015": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2016": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2017": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2018": {
+            "vegetation_percent": 10.645330268422454,
+            "water_percent": 0.0,
+            "builtup_percent": 4.285838201803059
+        },
+        "2019": {
+            "vegetation_percent": 8.579611825075693,
+            "water_percent": 0.0,
+            "builtup_percent": 1.149889798044269
+        },
+        "2020": {
+            "vegetation_percent": 12.623758425301707,
+            "water_percent": 0.0,
+            "builtup_percent": 0.47112070086166197
+        },
+        "2021": {
+            "vegetation_percent": 14.891656967644737,
+            "water_percent": 0.0,
+            "builtup_percent": 0.13008922411810606
+        },
+        "2022": {
+            "vegetation_percent": 15.482962525931304,
+            "water_percent": 0.0,
+            "builtup_percent": 0.36987400833228756
+        },
+        "2023": {
+            "vegetation_percent": 14.46198049547979,
+            "water_percent": 0.0,
+            "builtup_percent": 0.36987355761168517
+        },
+        "2024": {
+            "vegetation_percent": 12.824466015593785,
+            "water_percent": 0.0,
+            "builtup_percent": 0.5719063784753585
+        }
+    },
+    "10 Shivajinagar Gaothan - Sangamwadi": {
+        "2015": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2016": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2017": {
+            "vegetation_percent": null,
+            "water_percent": null,
+            "builtup_percent": null
+        },
+        "2018": {
+            "vegetation_percent": 47.483458120313095,
+            "water_percent": 3.732945687829061,
+            "builtup_percent": 2.871996632853907
+        },
+        "2019": {
+            "vegetation_percent": 42.21549101515809,
+            "water_percent": 0.2680043783805691,
+            "builtup_percent": 0.3378265414572153
+        },
+        "2020": {
+            "vegetation_percent": 52.671134010472784,
+            "water_percent": 2.412446517797863,
+            "builtup_percent": 0.5260621245137527
+        },
+        "2021": {
+            "vegetation_percent": 53.74613004617971,
+            "water_percent": 1.6001456705316288,
+            "builtup_percent": 0.48075222513170696
+        },
+        "2022": {
+            "vegetation_percent": 59.13860317744937,
+            "water_percent": 1.3630370913668577,
+            "builtup_percent": 0.45741337340987914
+        },
+        "2023": {
+            "vegetation_percent": 53.938129640021835,
+            "water_percent": 0.16904856125302098,
+            "builtup_percent": 0.5850869730266062
+        },
+        "2024": {
+            "vegetation_percent": 49.037692906166654,
+            "water_percent": 1.2537677558455702,
+            "builtup_percent": 0.926797475103955
+        }
+    }
+}

@@ -1,0 +1,2227 @@
+{
+  "wards": [
+    {
+      "ward_number": 1,
+      "ward_name": "01 Dhanori - Vishrantwadi",
+      "population_by_year": {
+        "2015": {
+          "population": 29389.93
+        },
+        "2016": {
+          "population": 29578.78
+        },
+        "2017": {
+          "population": 30968.84
+        },
+        "2018": {
+          "population": 32405.52
+        },
+        "2019": {
+          "population": 33569.5
+        },
+        "2020": {
+          "population": 33557.17
+        },
+        "2021": {
+          "population": 34816
+        },
+        "2022": {
+          "population": 35640
+        },
+        "2023": {
+          "population": 36464
+        },
+        "2024": {
+          "population": 37288
+        },
+        "2025": {
+          "population": 38112
+        }
+      }
+    },
+    {
+      "ward_number": 2,
+      "ward_name": "02 Tingrenagar - Sanjay Park",
+      "population_by_year": {
+        "2015": {
+          "population": 59028.34
+        },
+        "2016": {
+          "population": 59447.91
+        },
+        "2017": {
+          "population": 62639.57
+        },
+        "2018": {
+          "population": 63463.32
+        },
+        "2019": {
+          "population": 67019.9
+        },
+        "2020": {
+          "population": 67985.45
+        },
+        "2021": {
+          "population": 69949
+        },
+        "2022": {
+          "population": 71465
+        },
+        "2023": {
+          "population": 72982
+        },
+        "2024": {
+          "population": 74498
+        },
+        "2025": {
+          "population": 76015
+        }
+      }
+    },
+    {
+      "ward_number": 3,
+      "ward_name": "03 Lohegaon - Vimannagar",
+      "population_by_year": {
+        "2015": {
+          "population": 53935.39
+        },
+        "2016": {
+          "population": 57022.21
+        },
+        "2017": {
+          "population": 59415.95
+        },
+        "2018": {
+          "population": 61329.22
+        },
+        "2019": {
+          "population": 65144.94
+        },
+        "2020": {
+          "population": 64643.45
+        },
+        "2021": {
+          "population": 67885
+        },
+        "2022": {
+          "population": 69784
+        },
+        "2023": {
+          "population": 71683
+        },
+        "2024": {
+          "population": 73582
+        },
+        "2025": {
+          "population": 75481
+        }
+      }
+    },
+    {
+      "ward_number": 4,
+      "ward_name": "04 East Kharadi - Wagholi",
+      "population_by_year": {
+        "2015": {
+          "population": 53367.63
+        },
+        "2016": {
+          "population": 52975.68
+        },
+        "2017": {
+          "population": 52323.75
+        },
+        "2018": {
+          "population": 54868.37
+        },
+        "2019": {
+          "population": 57376.5
+        },
+        "2020": {
+          "population": 54877.85
+        },
+        "2021": {
+          "population": 56930
+        },
+        "2022": {
+          "population": 57602
+        },
+        "2023": {
+          "population": 58273
+        },
+        "2024": {
+          "population": 58945
+        },
+        "2025": {
+          "population": 59617
+        }
+      }
+    },
+    {
+      "ward_number": 5,
+      "ward_name": "05 West Kharadi - Vadgaon Sheri",
+      "population_by_year": {
+        "2015": {
+          "population": 64078.12
+        },
+        "2016": {
+          "population": 63799.46
+        },
+        "2017": {
+          "population": 70413.17
+        },
+        "2018": {
+          "population": 66033.7
+        },
+        "2019": {
+          "population": 67088.75
+        },
+        "2020": {
+          "population": 75142.23
+        },
+        "2021": {
+          "population": 75868
+        },
+        "2022": {
+          "population": 77800
+        },
+        "2023": {
+          "population": 79732
+        },
+        "2024": {
+          "population": 81664
+        },
+        "2025": {
+          "population": 83596
+        }
+      }
+    },
+    {
+      "ward_number": 6,
+      "ward_name": "06 Vadgaon Sheri - Ramwadi",
+      "population_by_year": {
+        "2015": {
+          "population": 37261.96
+        },
+        "2016": {
+          "population": 37547.11
+        },
+        "2017": {
+          "population": 38456.51
+        },
+        "2018": {
+          "population": 39155.24
+        },
+        "2019": {
+          "population": 41051.64
+        },
+        "2020": {
+          "population": 44264.76
+        },
+        "2021": {
+          "population": 44849
+        },
+        "2022": {
+          "population": 46067
+        },
+        "2023": {
+          "population": 47285
+        },
+        "2024": {
+          "population": 48503
+        },
+        "2025": {
+          "population": 49721
+        }
+      }
+    },
+    {
+      "ward_number": 7,
+      "ward_name": "07 Kalyaninagar - Nagpur Chawl",
+      "population_by_year": {
+        "2015": {
+          "population": 115175.62
+        },
+        "2016": {
+          "population": 116883.45
+        },
+        "2017": {
+          "population": 122597.09
+        },
+        "2018": {
+          "population": 126763.83
+        },
+        "2019": {
+          "population": 130774.41
+        },
+        "2020": {
+          "population": 137263.73
+        },
+        "2021": {
+          "population": 139169
+        },
+        "2022": {
+          "population": 143160
+        },
+        "2023": {
+          "population": 147150
+        },
+        "2024": {
+          "population": 151141
+        },
+        "2025": {
+          "population": 155131
+        }
+      }
+    },
+    {
+      "ward_number": 8,
+      "ward_name": "08 Kalas - Phulenagar",
+      "population_by_year": {
+        "2015": {
+          "population": 36753.31
+        },
+        "2016": {
+          "population": 38310.69
+        },
+        "2017": {
+          "population": 39379.7
+        },
+        "2018": {
+          "population": 41506.82
+        },
+        "2019": {
+          "population": 41711.72
+        },
+        "2020": {
+          "population": 43570.76
+        },
+        "2021": {
+          "population": 44675
+        },
+        "2022": {
+          "population": 45864
+        },
+        "2023": {
+          "population": 47053
+        },
+        "2024": {
+          "population": 48242
+        },
+        "2025": {
+          "population": 49431
+        }
+      }
+    },
+    {
+      "ward_number": 9,
+      "ward_name": "09 Yerwada",
+      "population_by_year": {
+        "2015": {
+          "population": 18301.92
+        },
+        "2016": {
+          "population": 19531.09
+        },
+        "2017": {
+          "population": 19606.53
+        },
+        "2018": {
+          "population": 20454.85
+        },
+        "2019": {
+          "population": 20172.48
+        },
+        "2020": {
+          "population": 20742.21
+        },
+        "2021": {
+          "population": 21332
+        },
+        "2022": {
+          "population": 21743
+        },
+        "2023": {
+          "population": 22154
+        },
+        "2024": {
+          "population": 22565
+        },
+        "2025": {
+          "population": 22976
+        }
+      }
+    },
+    {
+      "ward_number": 10,
+      "ward_name": "10 Shivajinagar Gaothan - Sangamwadi",
+      "population_by_year": {
+        "2015": {
+          "population": 83576.97
+        },
+        "2016": {
+          "population": 87645.39
+        },
+        "2017": {
+          "population": 92360.14
+        },
+        "2018": {
+          "population": 95046.5
+        },
+        "2019": {
+          "population": 99740.41
+        },
+        "2020": {
+          "population": 101197.16
+        },
+        "2021": {
+          "population": 104523
+        },
+        "2022": {
+          "population": 107954
+        },
+        "2023": {
+          "population": 111386
+        },
+        "2024": {
+          "population": 114817
+        },
+        "2025": {
+          "population": 118249
+        }
+      }
+    },
+    {
+      "ward_number": 11,
+      "ward_name": "11 Bopodi - Savitribai Phule Pune University",
+      "population_by_year": {
+        "2015": {
+          "population": 65182.72
+        },
+        "2016": {
+          "population": 66146.29
+        },
+        "2017": {
+          "population": 69977.05
+        },
+        "2018": {
+          "population": 72345.06
+        },
+        "2019": {
+          "population": 74254.2
+        },
+        "2020": {
+          "population": 76574.15
+        },
+        "2021": {
+          "population": 78377
+        },
+        "2022": {
+          "population": 80169
+        },
+        "2023": {
+          "population": 81961
+        },
+        "2024": {
+          "population": 83753
+        },
+        "2025": {
+          "population": 85545
+        }
+      }
+    },
+    {
+      "ward_number": 12,
+      "ward_name": "12 Aundh - Balewadi",
+      "population_by_year": {
+        "2015": {
+          "population": 16620
+        },
+        "2016": {
+          "population": 17810.79
+        },
+        "2017": {
+          "population": 18477.01
+        },
+        "2018": {
+          "population": 18645.23
+        },
+        "2019": {
+          "population": 18925.16
+        },
+        "2020": {
+          "population": 20330.85
+        },
+        "2021": {
+          "population": 20624
+        },
+        "2022": {
+          "population": 21257
+        },
+        "2023": {
+          "population": 21891
+        },
+        "2024": {
+          "population": 22524
+        },
+        "2025": {
+          "population": 23158
+        }
+      }
+    },
+    {
+      "ward_number": 13,
+      "ward_name": "13 Baner - Sus - Mahalunge",
+      "population_by_year": {
+        "2015": {
+          "population": 29919.37
+        },
+        "2016": {
+          "population": 31805.02
+        },
+        "2017": {
+          "population": 34418.61
+        },
+        "2018": {
+          "population": 34869.6
+        },
+        "2019": {
+          "population": 35111.25
+        },
+        "2020": {
+          "population": 38134.36
+        },
+        "2021": {
+          "population": 38550
+        },
+        "2022": {
+          "population": 39862
+        },
+        "2023": {
+          "population": 41173
+        },
+        "2024": {
+          "population": 42485
+        },
+        "2025": {
+          "population": 43797
+        }
+      }
+    },
+    {
+      "ward_number": 14,
+      "ward_name": "14 Pashan - Bawdhan",
+      "population_by_year": {
+        "2015": {
+          "population": 32318.64
+        },
+        "2016": {
+          "population": 33444.49
+        },
+        "2017": {
+          "population": 35290.73
+        },
+        "2018": {
+          "population": 36935.68
+        },
+        "2019": {
+          "population": 37959.21
+        },
+        "2020": {
+          "population": 38569.93
+        },
+        "2021": {
+          "population": 39999
+        },
+        "2022": {
+          "population": 41189
+        },
+        "2023": {
+          "population": 42379
+        },
+        "2024": {
+          "population": 43569
+        },
+        "2025": {
+          "population": 44759
+        }
+      }
+    },
+    {
+      "ward_number": 15,
+      "ward_name": "15 Gokhalenagar - Vadarwadi",
+      "population_by_year": {
+        "2015": {
+          "population": 48514.6
+        },
+        "2016": {
+          "population": 51102.67
+        },
+        "2017": {
+          "population": 56003.81
+        },
+        "2018": {
+          "population": 56566.74
+        },
+        "2019": {
+          "population": 57296.05
+        },
+        "2020": {
+          "population": 60613.17
+        },
+        "2021": {
+          "population": 61971
+        },
+        "2022": {
+          "population": 63864
+        },
+        "2023": {
+          "population": 65756
+        },
+        "2024": {
+          "population": 67649
+        },
+        "2025": {
+          "population": 69542
+        }
+      }
+    },
+    {
+      "ward_number": 16,
+      "ward_name": "16 Fergusson College - Erandwane",
+      "population_by_year": {
+        "2015": {
+          "population": 83653.19
+        },
+        "2016": {
+          "population": 90154.15
+        },
+        "2017": {
+          "population": 94203.08
+        },
+        "2018": {
+          "population": 92834.42
+        },
+        "2019": {
+          "population": 97145.6
+        },
+        "2020": {
+          "population": 99026.89
+        },
+        "2021": {
+          "population": 101824
+        },
+        "2022": {
+          "population": 104273
+        },
+        "2023": {
+          "population": 106721
+        },
+        "2024": {
+          "population": 109170
+        },
+        "2025": {
+          "population": 111619
+        }
+      }
+    },
+    {
+      "ward_number": 17,
+      "ward_name": "17 Shaniwar peth - Navi Peth",
+      "population_by_year": {
+        "2015": {
+          "population": 24209.76
+        },
+        "2016": {
+          "population": 26329.73
+        },
+        "2017": {
+          "population": 27800.52
+        },
+        "2018": {
+          "population": 25668.06
+        },
+        "2019": {
+          "population": 27388.78
+        },
+        "2020": {
+          "population": 27490.15
+        },
+        "2021": {
+          "population": 28415
+        },
+        "2022": {
+          "population": 28945
+        },
+        "2023": {
+          "population": 29475
+        },
+        "2024": {
+          "population": 30005
+        },
+        "2025": {
+          "population": 30535
+        }
+      }
+    },
+    {
+      "ward_number": 18,
+      "ward_name": "18 Shaniwarwada - Kasba Peth",
+      "population_by_year": {
+        "2015": {
+          "population": 14996.43
+        },
+        "2016": {
+          "population": 15005.58
+        },
+        "2017": {
+          "population": 16214.03
+        },
+        "2018": {
+          "population": 15530.74
+        },
+        "2019": {
+          "population": 16100.71
+        },
+        "2020": {
+          "population": 16114.76
+        },
+        "2021": {
+          "population": 16616
+        },
+        "2022": {
+          "population": 16898
+        },
+        "2023": {
+          "population": 17181
+        },
+        "2024": {
+          "population": 17463
+        },
+        "2025": {
+          "population": 17746
+        }
+      }
+    },
+    {
+      "ward_number": 19,
+      "ward_name": "19 Chhatrapati Shivaji Maharaj Stadium - Rasta peth",
+      "population_by_year": {
+        "2015": {
+          "population": 13650.51
+        },
+        "2016": {
+          "population": 12357.62
+        },
+        "2017": {
+          "population": 13588.76
+        },
+        "2018": {
+          "population": 13803.02
+        },
+        "2019": {
+          "population": 13613.82
+        },
+        "2020": {
+          "population": 14122.84
+        },
+        "2021": {
+          "population": 14187
+        },
+        "2022": {
+          "population": 14352
+        },
+        "2023": {
+          "population": 14518
+        },
+        "2024": {
+          "population": 14683
+        },
+        "2025": {
+          "population": 14849
+        }
+      }
+    },
+    {
+      "ward_number": 20,
+      "ward_name": "20 Pune Station -Matoshri Ramabai Ambedkar Road",
+      "population_by_year": {
+        "2015": {
+          "population": 62982.79
+        },
+        "2016": {
+          "population": 68506.9
+        },
+        "2017": {
+          "population": 73201.52
+        },
+        "2018": {
+          "population": 72910.58
+        },
+        "2019": {
+          "population": 73465.11
+        },
+        "2020": {
+          "population": 77340.34
+        },
+        "2021": {
+          "population": 78864
+        },
+        "2022": {
+          "population": 80971
+        },
+        "2023": {
+          "population": 83079
+        },
+        "2024": {
+          "population": 85186
+        },
+        "2025": {
+          "population": 87293
+        }
+      }
+    },
+    {
+      "ward_number": 21,
+      "ward_name": "21 Koregaon park - Mundhwa",
+      "population_by_year": {
+        "2015": {
+          "population": 33046.88
+        },
+        "2016": {
+          "population": 32967.54
+        },
+        "2017": {
+          "population": 33021.95
+        },
+        "2018": {
+          "population": 35860.09
+        },
+        "2019": {
+          "population": 36612.48
+        },
+        "2020": {
+          "population": 36721.27
+        },
+        "2021": {
+          "population": 38169
+        },
+        "2022": {
+          "population": 39077
+        },
+        "2023": {
+          "population": 39985
+        },
+        "2024": {
+          "population": 40893
+        },
+        "2025": {
+          "population": 41801
+        }
+      }
+    },
+    {
+      "ward_number": 22,
+      "ward_name": "22 Manjari Bk. - Shewalwadi",
+      "population_by_year": {
+        "2015": {
+          "population": 47282.29
+        },
+        "2016": {
+          "population": 47333.91
+        },
+        "2017": {
+          "population": 44038.48
+        },
+        "2018": {
+          "population": 49772.68
+        },
+        "2019": {
+          "population": 50426.55
+        },
+        "2020": {
+          "population": 46991.71
+        },
+        "2021": {
+          "population": 49503
+        },
+        "2022": {
+          "population": 49830
+        },
+        "2023": {
+          "population": 50157
+        },
+        "2024": {
+          "population": 50485
+        },
+        "2025": {
+          "population": 50812
+        }
+      }
+    },
+    {
+      "ward_number": 23,
+      "ward_name": "23 Sadesataranali - Aakashwani",
+      "population_by_year": {
+        "2015": {
+          "population": 95842.97
+        },
+        "2016": {
+          "population": 94687.31
+        },
+        "2017": {
+          "population": 97733.7
+        },
+        "2018": {
+          "population": 100564.75
+        },
+        "2019": {
+          "population": 101056.01
+        },
+        "2020": {
+          "population": 105783.09
+        },
+        "2021": {
+          "population": 106362
+        },
+        "2022": {
+          "population": 108253
+        },
+        "2023": {
+          "population": 110145
+        },
+        "2024": {
+          "population": 112036
+        },
+        "2025": {
+          "population": 113928
+        }
+      }
+    },
+    {
+      "ward_number": 24,
+      "ward_name": "24 Magarpatta - Sadhana Vidyalaya",
+      "population_by_year": {
+        "2015": {
+          "population": 73767.66
+        },
+        "2016": {
+          "population": 73175.21
+        },
+        "2017": {
+          "population": 75954.52
+        },
+        "2018": {
+          "population": 77981.92
+        },
+        "2019": {
+          "population": 76872.91
+        },
+        "2020": {
+          "population": 82380.21
+        },
+        "2021": {
+          "population": 82194
+        },
+        "2022": {
+          "population": 83637
+        },
+        "2023": {
+          "population": 85080
+        },
+        "2024": {
+          "population": 86523
+        },
+        "2025": {
+          "population": 87965
+        }
+      }
+    },
+    {
+      "ward_number": 25,
+      "ward_name": "25 Hadapsar Gaothan - Satavwadi",
+      "population_by_year": {
+        "2015": {
+          "population": 13013.75
+        },
+        "2016": {
+          "population": 12655
+        },
+        "2017": {
+          "population": 13703.56
+        },
+        "2018": {
+          "population": 13888.75
+        },
+        "2019": {
+          "population": 13795.27
+        },
+        "2020": {
+          "population": 15029.56
+        },
+        "2021": {
+          "population": 14902
+        },
+        "2022": {
+          "population": 15266
+        },
+        "2023": {
+          "population": 15630
+        },
+        "2024": {
+          "population": 15995
+        },
+        "2025": {
+          "population": 16359
+        }
+      }
+    },
+    {
+      "ward_number": 26,
+      "ward_name": "26 Wanwadi Gaothan - Vaiduwadi",
+      "population_by_year": {
+        "2015": {
+          "population": 43324.08
+        },
+        "2016": {
+          "population": 42776.71
+        },
+        "2017": {
+          "population": 42446.88
+        },
+        "2018": {
+          "population": 44951.7
+        },
+        "2019": {
+          "population": 46993.51
+        },
+        "2020": {
+          "population": 47033.32
+        },
+        "2021": {
+          "population": 48118
+        },
+        "2022": {
+          "population": 49058
+        },
+        "2023": {
+          "population": 49998
+        },
+        "2024": {
+          "population": 50938
+        },
+        "2025": {
+          "population": 51878
+        }
+      }
+    },
+    {
+      "ward_number": 27,
+      "ward_name": "27 Kasewadi - Lohiyanagar",
+      "population_by_year": {
+        "2015": {
+          "population": 26153.86
+        },
+        "2016": {
+          "population": 26402.45
+        },
+        "2017": {
+          "population": 27545.22
+        },
+        "2018": {
+          "population": 27248.45
+        },
+        "2019": {
+          "population": 27876.15
+        },
+        "2020": {
+          "population": 28537.78
+        },
+        "2021": {
+          "population": 28833
+        },
+        "2022": {
+          "population": 29321
+        },
+        "2023": {
+          "population": 29810
+        },
+        "2024": {
+          "population": 30298
+        },
+        "2025": {
+          "population": 30787
+        }
+      }
+    },
+    {
+      "ward_number": 29,
+      "ward_name": "29 Ghorpade peth Udyan - Mahatma Phule Mandai",
+      "population_by_year": {
+        "2015": {
+          "population": 19997.53
+        },
+        "2016": {
+          "population": 18995.89
+        },
+        "2017": {
+          "population": 19194.66
+        },
+        "2018": {
+          "population": 18977.63
+        },
+        "2019": {
+          "population": 19397.44
+        },
+        "2020": {
+          "population": 18787.22
+        },
+        "2021": {
+          "population": 18908
+        },
+        "2022": {
+          "population": 18834
+        },
+        "2023": {
+          "population": 18760
+        },
+        "2024": {
+          "population": 18685
+        },
+        "2025": {
+          "population": 18611
+        }
+      }
+    },
+    {
+      "ward_number": 30,
+      "ward_name": "30 Jai Bhavaninagar - Kelewadi",
+      "population_by_year": {
+        "2015": {
+          "population": null
+        },
+        "2016": {
+          "population": null
+        },
+        "2017": {
+          "population": null
+        },
+        "2018": {
+          "population": null
+        },
+        "2019": {
+          "population": null
+        },
+        "2020": {
+          "population": null
+        },
+        "2021": {
+          "error": "400 Client Error: Bad Request for url: https://api.worldpop.org/v1/services/stats"
+        },
+        "2022": {
+          "error": "400 Client Error: Bad Request for url: https://api.worldpop.org/v1/services/stats"
+        },
+        "2023": {
+          "error": "400 Client Error: Bad Request for url: https://api.worldpop.org/v1/services/stats"
+        },
+        "2024": {
+          "error": "400 Client Error: Bad Request for url: https://api.worldpop.org/v1/services/stats"
+        },
+        "2025": {
+          "error": "400 Client Error: Bad Request for url: https://api.worldpop.org/v1/services/stats"
+        }
+      }
+    },
+    {
+      "ward_number": 31,
+      "ward_name": "31 Kothrud Gaothan - Shivtirthnagar",
+      "population_by_year": {
+        "2015": {
+          "population": 13013.08
+        },
+        "2016": {
+          "population": 14008.22
+        },
+        "2017": {
+          "population": 15294.42
+        },
+        "2018": {
+          "population": 14660.41
+        },
+        "2019": {
+          "population": 14309.61
+        },
+        "2020": {
+          "population": 16491.04
+        },
+        "2021": {
+          "population": 16447
+        },
+        "2022": {
+          "population": 16900
+        },
+        "2023": {
+          "population": 17353
+        },
+        "2024": {
+          "population": 17806
+        },
+        "2025": {
+          "population": 18259
+        }
+      }
+    },
+    {
+      "ward_number": 32,
+      "ward_name": "32 Bhusari colony - Bavdhan Khurd",
+      "population_by_year": {
+        "2015": {
+          "population": 9476.78
+        },
+        "2016": {
+          "population": 9826.48
+        },
+        "2017": {
+          "population": 10533.06
+        },
+        "2018": {
+          "population": 10609.38
+        },
+        "2019": {
+          "population": 10389.84
+        },
+        "2020": {
+          "population": 11191.31
+        },
+        "2021": {
+          "population": 11284
+        },
+        "2022": {
+          "population": 11559
+        },
+        "2023": {
+          "population": 11835
+        },
+        "2024": {
+          "population": 12111
+        },
+        "2025": {
+          "population": 12387
+        }
+      }
+    },
+    {
+      "ward_number": 33,
+      "ward_name": "33 Ideal colony - Mahatma Society",
+      "population_by_year": {
+        "2015": {
+          "population": 29349.03
+        },
+        "2016": {
+          "population": 28904.18
+        },
+        "2017": {
+          "population": 29986.63
+        },
+        "2018": {
+          "population": 31414.77
+        },
+        "2019": {
+          "population": 32792.96
+        },
+        "2020": {
+          "population": 32027.38
+        },
+        "2021": {
+          "population": 33177
+        },
+        "2022": {
+          "population": 33890
+        },
+        "2023": {
+          "population": 34604
+        },
+        "2024": {
+          "population": 35317
+        },
+        "2025": {
+          "population": 36031
+        }
+      }
+    },
+    {
+      "ward_number": 34,
+      "ward_name": "34 Warje - Kondhave Dhavde",
+      "population_by_year": {
+        "2015": {
+          "population": 13590.48
+        },
+        "2016": {
+          "population": 13098.12
+        },
+        "2017": {
+          "population": 13453.78
+        },
+        "2018": {
+          "population": 14317.16
+        },
+        "2019": {
+          "population": 14940.98
+        },
+        "2020": {
+          "population": 14294.5
+        },
+        "2021": {
+          "population": 14969
+        },
+        "2022": {
+          "population": 15269
+        },
+        "2023": {
+          "population": 15569
+        },
+        "2024": {
+          "population": 15869
+        },
+        "2025": {
+          "population": 16168
+        }
+      }
+    },
+    {
+      "ward_number": 35,
+      "ward_name": "35 Ramnagar - Uttamnagar Shivane",
+      "population_by_year": {
+        "2015": {
+          "population": 5256.46
+        },
+        "2016": {
+          "population": 5310.55
+        },
+        "2017": {
+          "population": 5514.33
+        },
+        "2018": {
+          "population": 5823.73
+        },
+        "2019": {
+          "population": 5846.77
+        },
+        "2020": {
+          "population": 5953.18
+        },
+        "2021": {
+          "population": 6128
+        },
+        "2022": {
+          "population": 6265
+        },
+        "2023": {
+          "population": 6402
+        },
+        "2024": {
+          "population": 6539
+        },
+        "2025": {
+          "population": 6676
+        }
+      }
+    },
+    {
+      "ward_number": 36,
+      "ward_name": "36 Karvenagar",
+      "population_by_year": {
+        "2015": {
+          "population": 19615.81
+        },
+        "2016": {
+          "population": 20485.9
+        },
+        "2017": {
+          "population": 20443
+        },
+        "2018": {
+          "population": 21261.58
+        },
+        "2019": {
+          "population": 21238.27
+        },
+        "2020": {
+          "population": 22520.99
+        },
+        "2021": {
+          "population": 22524
+        },
+        "2022": {
+          "population": 22976
+        },
+        "2023": {
+          "population": 23429
+        },
+        "2024": {
+          "population": 23881
+        },
+        "2025": {
+          "population": 24333
+        }
+      }
+    },
+    {
+      "ward_number": 37,
+      "ward_name": "37 Janata Vasahat - Dattawadi",
+      "population_by_year": {
+        "2015": {
+          "population": 11829.79
+        },
+        "2016": {
+          "population": 12008.04
+        },
+        "2017": {
+          "population": 12340.23
+        },
+        "2018": {
+          "population": 12475.96
+        },
+        "2019": {
+          "population": 13057.82
+        },
+        "2020": {
+          "population": 13414.87
+        },
+        "2021": {
+          "population": 13576
+        },
+        "2022": {
+          "population": 13865
+        },
+        "2023": {
+          "population": 14155
+        },
+        "2024": {
+          "population": 14444
+        },
+        "2025": {
+          "population": 14733
+        }
+      }
+    },
+    {
+      "ward_number": 38,
+      "ward_name": "38 Shivdarshan - Padmavati",
+      "population_by_year": {
+        "2015": {
+          "population": 55133.73
+        },
+        "2016": {
+          "population": 58189.63
+        },
+        "2017": {
+          "population": 60138.28
+        },
+        "2018": {
+          "population": 60025.6
+        },
+        "2019": {
+          "population": 60888.81
+        },
+        "2020": {
+          "population": 65084.51
+        },
+        "2021": {
+          "population": 65427
+        },
+        "2022": {
+          "population": 66986
+        },
+        "2023": {
+          "population": 68545
+        },
+        "2024": {
+          "population": 70104
+        },
+        "2025": {
+          "population": 71663
+        }
+      }
+    },
+    {
+      "ward_number": 39,
+      "ward_name": "39 Market yard - Maharshinagar",
+      "population_by_year": {
+        "2015": {
+          "population": 33208.74
+        },
+        "2016": {
+          "population": 31385.06
+        },
+        "2017": {
+          "population": 32755.07
+        },
+        "2018": {
+          "population": 34616.06
+        },
+        "2019": {
+          "population": 32918.65
+        },
+        "2020": {
+          "population": 36412.5
+        },
+        "2021": {
+          "population": 36195
+        },
+        "2022": {
+          "population": 36980
+        },
+        "2023": {
+          "population": 37764
+        },
+        "2024": {
+          "population": 38549
+        },
+        "2025": {
+          "population": 39334
+        }
+      }
+    },
+    {
+      "ward_number": 40,
+      "ward_name": "40 Bibvewadi - Gangadham",
+      "population_by_year": {
+        "2015": {
+          "population": 50778.29
+        },
+        "2016": {
+          "population": 52974.62
+        },
+        "2017": {
+          "population": 53030.46
+        },
+        "2018": {
+          "population": 55889.46
+        },
+        "2019": {
+          "population": 59304.01
+        },
+        "2020": {
+          "population": 58994.72
+        },
+        "2021": {
+          "population": 61287
+        },
+        "2022": {
+          "population": 62908
+        },
+        "2023": {
+          "population": 64528
+        },
+        "2024": {
+          "population": 66149
+        },
+        "2025": {
+          "population": 67769
+        }
+      }
+    },
+    {
+      "ward_number": 41,
+      "ward_name": "41 Kondhva Kh - Mithanagar",
+      "population_by_year": {
+        "2015": {
+          "population": 30058.96
+        },
+        "2016": {
+          "population": 33467.15
+        },
+        "2017": {
+          "population": 33462.64
+        },
+        "2018": {
+          "population": 34242.48
+        },
+        "2019": {
+          "population": 34363.52
+        },
+        "2020": {
+          "population": 35954.74
+        },
+        "2021": {
+          "population": 36474
+        },
+        "2022": {
+          "population": 37372
+        },
+        "2023": {
+          "population": 38270
+        },
+        "2024": {
+          "population": 39168
+        },
+        "2025": {
+          "population": 40066
+        }
+      }
+    },
+    {
+      "ward_number": 42,
+      "ward_name": "42 Ramtekadi - Sayyadnagar",
+      "population_by_year": {
+        "2015": {
+          "population": 30460.49
+        },
+        "2016": {
+          "population": 31451.62
+        },
+        "2017": {
+          "population": 30747.3
+        },
+        "2018": {
+          "population": 33551.48
+        },
+        "2019": {
+          "population": 36014.55
+        },
+        "2020": {
+          "population": 33651.12
+        },
+        "2021": {
+          "population": 35836
+        },
+        "2022": {
+          "population": 36582
+        },
+        "2023": {
+          "population": 37329
+        },
+        "2024": {
+          "population": 38075
+        },
+        "2025": {
+          "population": 38821
+        }
+      }
+    },
+    {
+      "ward_number": 43,
+      "ward_name": "43 Wanawadi - Kausar Baug",
+      "population_by_year": {
+        "2015": {
+          "population": null
+        },
+        "2016": {
+          "population": null
+        },
+        "2017": {
+          "population": null
+        },
+        "2018": {
+          "population": null
+        },
+        "2019": {
+          "population": null
+        },
+        "2020": {
+          "population": null
+        },
+        "2021": {
+          "error": "400 Client Error: Bad Request for url: https://api.worldpop.org/v1/services/stats"
+        },
+        "2022": {
+          "error": "400 Client Error: Bad Request for url: https://api.worldpop.org/v1/services/stats"
+        },
+        "2023": {
+          "error": "400 Client Error: Bad Request for url: https://api.worldpop.org/v1/services/stats"
+        },
+        "2024": {
+          "error": "400 Client Error: Bad Request for url: https://api.worldpop.org/v1/services/stats"
+        },
+        "2025": {
+          "error": "400 Client Error: Bad Request for url: https://api.worldpop.org/v1/services/stats"
+        }
+      }
+    },
+    {
+      "ward_number": 44,
+      "ward_name": "44 Kale Boratenagar - Sasanenagar",
+      "population_by_year": {
+        "2015": {
+          "population": 10625.55
+        },
+        "2016": {
+          "population": 11095.19
+        },
+        "2017": {
+          "population": 12298.34
+        },
+        "2018": {
+          "population": 12543.3
+        },
+        "2019": {
+          "population": 12202.62
+        },
+        "2020": {
+          "population": 13264.22
+        },
+        "2021": {
+          "population": 13268
+        },
+        "2022": {
+          "population": 13653
+        },
+        "2023": {
+          "population": 14038
+        },
+        "2024": {
+          "population": 14424
+        },
+        "2025": {
+          "population": 14809
+        }
+      }
+    },
+    {
+      "ward_number": 45,
+      "ward_name": "45 Fursungi",
+      "population_by_year": {
+        "2015": {
+          "population": 30366
+        },
+        "2016": {
+          "population": 31757.05
+        },
+        "2017": {
+          "population": 31487.79
+        },
+        "2018": {
+          "population": 32882.43
+        },
+        "2019": {
+          "population": 34003.09
+        },
+        "2020": {
+          "population": 32392.78
+        },
+        "2021": {
+          "population": 33940
+        },
+        "2022": {
+          "population": 34509
+        },
+        "2023": {
+          "population": 35078
+        },
+        "2024": {
+          "population": 35647
+        },
+        "2025": {
+          "population": 36216
+        }
+      }
+    },
+    {
+      "ward_number": 46,
+      "ward_name": "46 Mohammad wadi - Uruli Devachi",
+      "population_by_year": {
+        "2015": {
+          "population": 85481.31
+        },
+        "2016": {
+          "population": 89226.95
+        },
+        "2017": {
+          "population": 88711.12
+        },
+        "2018": {
+          "population": 94353.52
+        },
+        "2019": {
+          "population": 98893.02
+        },
+        "2020": {
+          "population": 95055.09
+        },
+        "2021": {
+          "population": 99453
+        },
+        "2022": {
+          "population": 101416
+        },
+        "2023": {
+          "population": 103378
+        },
+        "2024": {
+          "population": 105341
+        },
+        "2025": {
+          "population": 107304
+        }
+      }
+    },
+    {
+      "ward_number": 47,
+      "ward_name": "47 Kondhva Bk - Yewalewadi",
+      "population_by_year": {
+        "2015": {
+          "population": 76824.52
+        },
+        "2016": {
+          "population": 79968.34
+        },
+        "2017": {
+          "population": 78041.22
+        },
+        "2018": {
+          "population": 83576.73
+        },
+        "2019": {
+          "population": 86351.85
+        },
+        "2020": {
+          "population": 83632.14
+        },
+        "2021": {
+          "population": 87588
+        },
+        "2022": {
+          "population": 89139
+        },
+        "2023": {
+          "population": 90690
+        },
+        "2024": {
+          "population": 92241
+        },
+        "2025": {
+          "population": 93792
+        }
+      }
+    },
+    {
+      "ward_number": 48,
+      "ward_name": "48 Upper Super Indiranagar",
+      "population_by_year": {
+        "2015": {
+          "population": 6446.95
+        },
+        "2016": {
+          "population": 6629.68
+        },
+        "2017": {
+          "population": 6850.32
+        },
+        "2018": {
+          "population": 6768.69
+        },
+        "2019": {
+          "population": 6904.33
+        },
+        "2020": {
+          "population": 7293.82
+        },
+        "2021": {
+          "population": 7291
+        },
+        "2022": {
+          "population": 7416
+        },
+        "2023": {
+          "population": 7541
+        },
+        "2024": {
+          "population": 7666
+        },
+        "2025": {
+          "population": 7791
+        }
+      }
+    },
+    {
+      "ward_number": 49,
+      "ward_name": "49 Balajinagar - Shankar Maharaj Math",
+      "population_by_year": {
+        "2015": {
+          "population": null
+        },
+        "2016": {
+          "population": null
+        },
+        "2017": {
+          "population": null
+        },
+        "2018": {
+          "population": null
+        },
+        "2019": {
+          "population": null
+        },
+        "2020": {
+          "population": null
+        },
+        "2021": {
+          "error": "400 Client Error: Bad Request for url: https://api.worldpop.org/v1/services/stats"
+        },
+        "2022": {
+          "error": "400 Client Error: Bad Request for url: https://api.worldpop.org/v1/services/stats"
+        },
+        "2023": {
+          "error": "400 Client Error: Bad Request for url: https://api.worldpop.org/v1/services/stats"
+        },
+        "2024": {
+          "error": "400 Client Error: Bad Request for url: https://api.worldpop.org/v1/services/stats"
+        },
+        "2025": {
+          "error": "400 Client Error: Bad Request for url: https://api.worldpop.org/v1/services/stats"
+        }
+      }
+    },
+    {
+      "ward_number": 50,
+      "ward_name": "50 Sahakarnagar - Taljai",
+      "population_by_year": {
+        "2015": {
+          "population": 16406.85
+        },
+        "2016": {
+          "population": 16372.28
+        },
+        "2017": {
+          "population": 16994.53
+        },
+        "2018": {
+          "population": 17249.6
+        },
+        "2019": {
+          "population": 18527.93
+        },
+        "2020": {
+          "population": 19495.57
+        },
+        "2021": {
+          "population": 19688
+        },
+        "2022": {
+          "population": 20295
+        },
+        "2023": {
+          "population": 20902
+        },
+        "2024": {
+          "population": 21509
+        },
+        "2025": {
+          "population": 22116
+        }
+      }
+    },
+    {
+      "ward_number": 51,
+      "ward_name": "51 Vadgaon Bk - Manikbaug",
+      "population_by_year": {
+        "2015": {
+          "population": 29351.02
+        },
+        "2016": {
+          "population": 29745.07
+        },
+        "2017": {
+          "population": 30656.37
+        },
+        "2018": {
+          "population": 31575.44
+        },
+        "2019": {
+          "population": 32074.58
+        },
+        "2020": {
+          "population": 34252.08
+        },
+        "2021": {
+          "population": 34335
+        },
+        "2022": {
+          "population": 35249
+        },
+        "2023": {
+          "population": 36164
+        },
+        "2024": {
+          "population": 37078
+        },
+        "2025": {
+          "population": 37993
+        }
+      }
+    },
+    {
+      "ward_number": 52,
+      "ward_name": "52 Nanded City - Sun City",
+      "population_by_year": {
+        "2015": {
+          "population": 103065.86
+        },
+        "2016": {
+          "population": 105882.72
+        },
+        "2017": {
+          "population": 109774.48
+        },
+        "2018": {
+          "population": 112044.73
+        },
+        "2019": {
+          "population": 114601.52
+        },
+        "2020": {
+          "population": 117624.55
+        },
+        "2021": {
+          "population": 119253
+        },
+        "2022": {
+          "population": 121651
+        },
+        "2023": {
+          "population": 124049
+        },
+        "2024": {
+          "population": 126447
+        },
+        "2025": {
+          "population": 128845
+        }
+      }
+    },
+    {
+      "ward_number": 53,
+      "ward_name": "53 Khadakwasla - Narhe",
+      "population_by_year": {
+        "2015": {
+          "population": 13956.13
+        },
+        "2016": {
+          "population": 14005.69
+        },
+        "2017": {
+          "population": 14053.6
+        },
+        "2018": {
+          "population": 14920.31
+        },
+        "2019": {
+          "population": 15627.91
+        },
+        "2020": {
+          "population": 14783.5
+        },
+        "2021": {
+          "population": 15555
+        },
+        "2022": {
+          "population": 15848
+        },
+        "2023": {
+          "population": 16140
+        },
+        "2024": {
+          "population": 16433
+        },
+        "2025": {
+          "population": 16726
+        }
+      }
+    },
+    {
+      "ward_number": 54,
+      "ward_name": "54 Dhayari - Ambegaon",
+      "population_by_year": {
+        "2015": {
+          "population": 20628.79
+        },
+        "2016": {
+          "population": 21067.16
+        },
+        "2017": {
+          "population": 21263.48
+        },
+        "2018": {
+          "population": 22353.72
+        },
+        "2019": {
+          "population": 23332.03
+        },
+        "2020": {
+          "population": 23287.92
+        },
+        "2021": {
+          "population": 23999
+        },
+        "2022": {
+          "population": 24578
+        },
+        "2023": {
+          "population": 25157
+        },
+        "2024": {
+          "population": 25736
+        },
+        "2025": {
+          "population": 26315
+        }
+      }
+    },
+    {
+      "ward_number": 55,
+      "ward_name": "55 Dhankawadi - Ambegaon Pathar",
+      "population_by_year": {
+        "2015": {
+          "population": 17946.24
+        },
+        "2016": {
+          "population": 19929.43
+        },
+        "2017": {
+          "population": 21566.06
+        },
+        "2018": {
+          "population": 21428.34
+        },
+        "2019": {
+          "population": 20597.44
+        },
+        "2020": {
+          "population": 24292.61
+        },
+        "2021": {
+          "population": 23831
+        },
+        "2022": {
+          "population": 24765
+        },
+        "2023": {
+          "population": 25699
+        },
+        "2024": {
+          "population": 26633
+        },
+        "2025": {
+          "population": 27567
+        }
+      }
+    },
+    {
+      "ward_number": 56,
+      "ward_name": "56 Chaitanyanagar - Bharati Vidyapeeth",
+      "population_by_year": {
+        "2015": {
+          "population": 38867.5
+        },
+        "2016": {
+          "population": 41132.72
+        },
+        "2017": {
+          "population": 41833.41
+        },
+        "2018": {
+          "population": 42449.57
+        },
+        "2019": {
+          "population": 42528.85
+        },
+        "2020": {
+          "population": 45367.87
+        },
+        "2021": {
+          "population": 45435
+        },
+        "2022": {
+          "population": 46522
+        },
+        "2023": {
+          "population": 47610
+        },
+        "2024": {
+          "population": 48697
+        },
+        "2025": {
+          "population": 49784
+        }
+      }
+    },
+    {
+      "ward_number": 57,
+      "ward_name": "57 Sukhsagarnagar - Rajiv Gandhinagar",
+      "population_by_year": {
+        "2015": {
+          "population": 162124.69
+        },
+        "2016": {
+          "population": 174837.97
+        },
+        "2017": {
+          "population": 174649.34
+        },
+        "2018": {
+          "population": 182134.12
+        },
+        "2019": {
+          "population": 183341.62
+        },
+        "2020": {
+          "population": 191835.75
+        },
+        "2021": {
+          "population": 191196
+        },
+        "2022": {
+          "population": 195724
+        },
+        "2023": {
+          "population": 200252
+        },
+        "2024": {
+          "population": 204780
+        },
+        "2025": {
+          "population": 209308
+        }
+      }
+    },
+    {
+      "ward_number": 58,
+      "ward_name": "58 Katraj - Gokulnagar",
+      "population_by_year": {
+        "2015": {
+          "population": 38558.41
+        },
+        "2016": {
+          "population": 39671.81
+        },
+        "2017": {
+          "population": 40552.55
+        },
+        "2018": {
+          "population": 42705.31
+        },
+        "2019": {
+          "population": 43985.91
+        },
+        "2020": {
+          "population": 44691.57
+        },
+        "2021": {
+          "population": 45864
+        },
+        "2022": {
+          "population": 46973
+        },
+        "2023": {
+          "population": 48083
+        },
+        "2024": {
+          "population": 49192
+        },
+        "2025": {
+          "population": 50302
+        }
+      }
+    }
+  ]
+}
